@@ -1,0 +1,5 @@
+classes= 15
+train = /backup/team23/zzy/model1/darknet/scripts/2012_train.txt
+names = /backup/team23/zzy/model1/darknet/data/voc.names
+backup = /backup/team23/zzy/model1/darknet/2newbackup
+
